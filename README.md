@@ -66,8 +66,6 @@ This C++ program implements an **E-Commerce Product Catalog** to store and manag
 
 • 4)Mini Project :- Smart Home Device Manager :-
 
-### Brief Description of the Mini-Project
-
 This C++ mini-project implements a **Smart Home Device Manager** to monitor and control different smart devices such as **lights, thermostats, cameras, and door locks**.
 
 * A **class** represents each smart device.
