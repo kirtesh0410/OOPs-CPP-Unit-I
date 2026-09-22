@@ -12,12 +12,10 @@ Unit :- I
 List of Programs :- 
 
                     1)Smart Agriculture Sensor Monitor
-                    
                     2)Student Attendance Management System
-                    
                     3)E-Commerce Product Catalog
-                    
                     4)Mini Project :- Smart Home Device Manager
+                    
 Brief descriptions of each Program :- 
 
 • 1)Smart Agriculture Sensor Monitor :-
