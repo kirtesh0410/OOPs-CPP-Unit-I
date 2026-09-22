@@ -1,4 +1,4 @@
-Brief descriptions of Program :- 
+Brief description of Program :- 
 
 • Smart Agriculture Sensor Monitor :-
 
