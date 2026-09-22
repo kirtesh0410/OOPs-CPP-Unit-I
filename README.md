@@ -1,4 +1,4 @@
-Brief descriptions of each Program :- 
+Brief description of each Program :- 
 
 • Mini Project :- Smart Home Device Manager :-
 
