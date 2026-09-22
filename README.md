@@ -1,4 +1,4 @@
-Brief descriptions of each Program :- 
+Brief descriptions of Program :- 
 
 • E-Commerce Product Catalog :-
 
